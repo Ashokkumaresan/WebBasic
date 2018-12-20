@@ -1,0 +1,9 @@
+{
+    "appname":"Dev Second Node Application",
+    "mail":{
+        "name":"dev.mail.souq.com"
+    },
+    "db":{
+        "path":"mongodb://localhost/FeedBack"
+    }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "webbasic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashokkumaresan/WebBasic.git"
+  },
+  "author": "Ashok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashokkumaresan/WebBasic/issues"
+  },
+  "homepage": "https://github.com/Ashokkumaresan/WebBasic#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.2",
+    "config": "^3.0.0",
+    "express": "^4.16.4",
+    "helmet": "^3.15.0",
+    "joi": "^14.3.0",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.3.14",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.6",
+    "rxjs": "^6.3.3"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
